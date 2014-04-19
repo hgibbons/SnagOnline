@@ -1,0 +1,11 @@
+{
+    "onMove" : {
+        "required uInt32 playerId" : 1,
+        "required string name": 2,
+        "required uInt32 x" : 3,
+        "required uInt32 y" : 4
+    },
+    "rankUpdate" : {
+        "repeated uInt32 entities": 1
+    }
+}
