@@ -7,7 +7,7 @@ Online version of snag that uses NodeJS, Express Web Server, and Pomelo Server F
 XML Level Format
 ================
 <code>
-<code><maps></code>
+<maps>
 	<map name="map1" width="1000" height="1000">
 		<hooks>
 			<hook x="100" y="100"></hook>
