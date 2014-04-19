@@ -6,7 +6,7 @@ Online version of snag that uses NodeJS, Express Web Server, and Pomelo Server F
 
 XML Level Format
 ================
-<code>
+<tt>
 <maps>
 	<map name="map1" width="1000" height="1000">
 		<hooks>
@@ -17,6 +17,6 @@ XML Level Format
 		</walls>
 	</map>
 </maps>
-</code>
+</tt>
 =================
 End
